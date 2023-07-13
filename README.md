@@ -28,6 +28,8 @@ git init
   *2. 터미널 맨 오른쪽에 (master) 확인*
 
 
+
+
 ```
 git add
 ```
