@@ -66,3 +66,9 @@ git pull origin master
 git clone remote url
 ```
 원격 저장소 전체를 복제 (다운로드)
+
+```
+gitignore
+```
+git에서 특정 파일이나 디렉토리를 추적하지 않도록 설정하는 데 사용되는 텍스트파일
+*[gitignore 목록을 만들어주는 사이트](https://www.toptal.com/developers/gitignore/)
