@@ -79,6 +79,8 @@ git pull origin master
 ```
 **원격 저장소의 변경사항만을 받아옴 (업데이트)**
 
+push하기 전에 pull 필수!
+
 ```
 git clone remote url
 ```
